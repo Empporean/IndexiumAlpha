@@ -1,0 +1,2 @@
+local TeleportService = game:GetService("TeleportService")
+TeleportService:Teleport(128762245270197, game.Players.LocalPlayer)
